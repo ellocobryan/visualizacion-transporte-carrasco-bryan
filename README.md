@@ -20,6 +20,7 @@ python -m venv .venv
 .venv\Scripts\Activate.ps1
 # O en Git Bash / Linux / Mac: source .venv/bin/activate
 pip install -r requirements.txt
+```
 
 visualizacion-transporte-carrasco-bryan/
 ├── data/
